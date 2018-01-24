@@ -1,0 +1,3 @@
+com\sample\licenses\Application.class
+com\sample\licenses\model\License.class
+com\sample\licenses\controllers\LicenseServiceController.class
